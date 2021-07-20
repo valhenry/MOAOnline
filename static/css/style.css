@@ -1,0 +1,30 @@
+canvas {
+  border: 1px dotted gray;
+}
+#board {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+label {
+  display: block;
+}
+
+body {
+  text-align: justify;
+  font-family: Verdana, Arial, serif;
+  font-size: smaller;
+  margin-right: 2em;
+}
+
+.clearfix {
+  clear: both;
+}
+
+#dump_area {
+  font-family: courier new, serif;
+  font-size: small;
+}
